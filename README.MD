@@ -1,6 +1,6 @@
 # 4SK
 
-### Free & Open Source AI Assistance for everyone
+### Free & Open Source AI Assistance CLI for Everyone
 
 4SK is a free and open source AI assistance CLI that can help you with your daily tasks. It is designed to be simple and easy to use. 4SK is built using Python and the GPT4All library. The CLI uses Mistral 7b as the default model, but you can change it to any other GPT4All compatible model that you want.
 4SK is still in development and we are constantly adding new features and improving the existing ones.
