@@ -96,7 +96,7 @@ We welcome contributions to 4SK. If you want to contribute to the project, pleas
 
 ### Contact
 
-If you have any questions, suggestions or feedbacks please feel free to contact me at my [e-mail](mailto:egecam000@gmail.com) or on [Twitter](https://twitter.com/egecamdev).
+If you have any questions, suggestions or feedbacks please feel free to contact the developer at [e-mail](mailto:egecam000@gmail.com) or [X/Twitter](https://twitter.com/egecamdev).
 
 ### Acknowledgements
 
