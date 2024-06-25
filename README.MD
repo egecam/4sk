@@ -18,7 +18,7 @@
 
 1. Clone the repository
    ```sh
-   git clone
+   git clone https://github.com/egecam/ask.git
    ```
 2. Install the dependencies
    ```sh
